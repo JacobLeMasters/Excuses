@@ -1,0 +1,6 @@
+<resources>
+    <string name="greeting">What do you need an excuse for?!</string>
+    <string name="app_name">Excuses</string>
+    <string name="defaultText">There is no excuse for you!</string>
+    <string name="buttonName">Help Me!</string>
+</resources>
