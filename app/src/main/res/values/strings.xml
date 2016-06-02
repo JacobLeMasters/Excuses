@@ -1,6 +1,262 @@
 <resources>
-    <string name="greeting">What do you need an excuse for?!</string>
+    <string name="category1">Anniversary</string>
+    <string name="category2">Birthday</string>
+    <string name="category3">Blood</string>
+    <string name="category4">Chores</string>
+    <string name="category5">Church</string>
+    <string name="category6">Class Early</string>
+    <string name="category7">Date</string>
+    <string name="category8">Dinner</string>
+    <string name="category9">Doctor</string>
+    <string name="category10">Donating Blood</string>
+    <string name="category11">Drunk Driving</string>
+    <string name="category12">Forgot</string>
+    <string name="category13">Funeral</string>
+    <string name="category14">Homework</string>
+    <string name="category15">Late Work</string>
+    <string name="category16">Miss Class</string>
+    <string name="category17">Miss Work</string>
+    <string name="category18">Murder</string>
+    <string name="category19">Not Going</string>
+    <string name="category20">Phone</string>
+    <string name="category21">Purchase</string>
+    <string name="category22">Shower</string>
+    <string name="category23">Speeding</string>
+    <string name="category24">Text</string>
+    <string name="category25">Wedding</string>
+    <string name="category26">Working Out</string>
+    <string name="category27">General</string>
+    <string name="logo">Logo</string>
+    <string name="title">Title TBA</string>
+    <string name="anniversary1">I want you to know that I have never been so sorry in my life, my love. I have no excuse for having forgotten this important day for us. I really want you to forgive me and make it up to you for this big mistake. I hope you know that I love you and in no time this neglect was with a bad intention, you are the most important thing in my life. Seriously I apologize, it will not be repeated ever again, my life.</string>
+    <string name="anniversary2">You are the only one that really makes me smile from the bottom of my soul, as if I were floating. The memories with you are the best I could ask for in my life. Admittedly, I forgot our anniversary and it weighs in the heart to know how much I have hurt you with my carelessness. Now I am going through a very complicated situation in the office and, although it should not be an excuse nor meddle in our private lives, I allowed it to happen and I could not be more sorry. I ask a little understanding and a second chance. I adore you.</string>
     <string name="app_name">Excuses</string>
+    <string name="birthday1">"I'm broke"</string>
+    <string name="birthday2">"Avoid attending a party by using the excuse of travelling. Pretend that you are going to be away during the time when you have been invited for an event. Switch off your cell phone so you don't have to answer any calls."</string>
+    <string name="blood1">I put a homeless man in a trash can and rolled him down a hill</string>
+    <string name="blood2">Brought a knife to a gun fight.</string>
+    <string name="blood3">Brought a gun to a knife fight.</string>
+    <string name="buttonName">Search</string>
+    <string name="buttonName2">View Categories</string>
+    <string name="buttonName3">Submit Your Own</string>
+    <string name="buttonName4">Close Application</string>
+    <string name="buttonName5">Get Another</string>
+    <string name="buttonName6">View All Excuses</string>
+    <string name="buttonName7">Back to Title Screen</string>
+    <string name="chores1">My doctor told me cleaning is bad for my Blood Pressure.</string>
+    <string name="chores2">I thought it was your turn!</string>
+    <string name="chores3"> I’ve got to meet Ashley, Ashley, and Heather to work on our vinegar and baking soda car for physics.  By the way, you need to take me to get some vinegar and baking soda and a plastic bottle to use for a car, some wheels, and zebra duct tape and a feather to decorate it.  Those are the parts I have to bring.</string>
+    <string name="chores4">I have to go to Mary-Alexander Margaret’s house to give back her earphones because she’s got the most important game of her life and she has to warm up listening to music. (Don’t tell parental unit the game is tomorrow)</string>
+    <string name="chores5">I have to shop online for a Homecoming dress because you won’t take me shopping for one because I have to do all these chores.</string>
+    <string name="chores6">When you asked me Friday if I had homework, I forgot I have three papers due Monday. One’s about “work ethic,” or something stupid. I’ve really gotta get started on them after I get something to eat.</string>
+    <string name="church1">Sundays are my only days to sleep in.</string>
+    <string name="church2">I have to work on sundays.</string>
+    <string name="church3">People judge me.</string>
+    <string name="church4">"I don't have the right clothes to wear."</string>
+    <string name="church5">All the songs they sing are old.</string>
+    <string name="church6">"I didn't have money to put in the church offering plate."</string>
+    <string name="classEarly1">Let your professor know that you’re scheduled for jury duty. They can’t argue with the law.</string>
+    <string name="classEarly2">Simply tell your professor that you’ve been in the bathroom all morning. No one wants to hear the details on your anus exploding, so they likely won’t pry any further. This is a bread and butter excuse for those who don’t mind putting your BMs on blast.</string>
+    <string name="date1">My best friend broke her leg.</string>
+    <string name="date2">I have to go to a rally.</string>
+    <string name="date3">"I'm gonna' go to the restroom"</string>
+    <string name="date4">I shit my pants.</string>
     <string name="defaultText">There is no excuse for you!</string>
-    <string name="buttonName">Help Me!</string>
+    <string name="dinner1">My dog set its own butt on fire</string>
+    <string name="dinner2">My house caught on fire</string>
+    <string name="dinner3">I got lost</string>
+    <string name="doctor1">I already know the test results will come back positive.</string>
+    <string name="doctor2">Life is hard.</string>
+    <string name="donatingBlood1">"I'm afraid of needles."</string>
+    <string name="donatingBlood2">Others are donating enough</string>
+    <string name="donatingBlood3">My blood alcohol level would kill some people</string>
+    <string name="drunkDriving1">"I'm not drunk."</string>
+    <string name="drunkDriving2">My wife cheated on me.</string>
+    <string name="forgot1">My doctor called, I have alzheimers.</string>
+    <string name="forgot2">I was in a car accident</string>
+    <string name="forgot3">I got hit with a baseball bat</string>
+    <string name="forgot4">I was saving the planet</string>
+    <string name="funeral1">"It was your Ex's funeral."</string>
+    <string name="funeral2">Zombies.</string>
+    <string name="general1">There is no excuse for you!</string>
+    <string name="general10">My daughter tried to take a yogurt bath at 3 in the morning.</string>
+    <string name="general11">"I didn't have time."</string>
+    <string name="general12">Fear of nuclear annihilation.</string>
+    <string name="general13">Nazis.</string>
+    <string name="general14">"Instructions weren't clear."</string>
+    <string name="general15">It got stuck.</string>
+    <string name="general2">I have cancer.</string>
+    <string name="general3">My anus was on fire.</string>
+    <string name="general4">I slept in.</string>
+    <string name="general5">I was up too late last night.</string>
+    <string name="general6">I has a hangover.</string>
+    <string name="general7">I was drunk.</string>
+    <string name="general8">My wife is pregnant.</string>
+    <string name="general9">My husband is pregnant.</string>
+    <string name="greeting">What do you need an excuse for?!</string>
+    <string name="homework1">My dad forgot to do it for me.</string>
+    <string name="homework2">My mother took it to have it framed.</string>
+    <string name="homework3">I didn’t understand the homework, could you explain it to me so I can give it a second go?</string>
+    <string name="homework4">"I was kidnapped by terrorists and they only just let me go, so I didn't have time to do it."</string>
+    <string name="homework5">"I didn't do it because I didn't want to add to my teacher's heavy workload."</string>
+    <string name="homework6">My flash drive exploded.</string>
+    <string name="homework7">Had to bail mom out of jail again.</string>
+    <string name="homework8">"I didn't do it, because I didn't want the other kids in the class to look bad."</string>
+    <string name="lateWork1">My girlfriend is anti daylight savings.</string>
+    <string name="lateWork2">I had a severe allergic reaction to 8 A.M.</string>
+    <string name="lateWork3">I got caught in a temporary cosmic rift and was stuck in a parallel universe for most of the morning</string>
+    <string name="lateWork4">"I forgot we had moved locations and went to our old address. Did you know it's a flower shop now? These are for you."</string>
+    <string name="lateWork5">"That's all right, it's not my fault; all I need is some more training."</string>
+    <string name="lateWork6">My dog ate my homework.</string>
+    <string name="missClass1">Tell your professor you got food poisoning. You puke all over your bathroom for 24 hours and you come in bright-eyed and bushy-tailed the next day, even though you just wrote an Adderall-induced essay in one sitting.</string>
+    <string name="missClass2">Tell your teacher that you locked your keys in your car and by the time Triple-A comes to the rescue, class will be over.</string>
+    <string name="missClass3">If you tell your teacher you contracted lice over the weekend, they’ll actually be thankful you didn’t come to class. The email is quick and easy: “That’s the last time I’m buying a beanie from a thrift store…”</string>
+    <string name="missWork1">"If your boss is a guy, just say you're having "womanly issues" .. no guy has the guts to question it!"</string>
+    <string name="missWork10">I have to go to the airport to pick up my minister.</string>
+    <string name="missWork11">I have to go to the airport to pick up my minister’s mother.</string>
+    <string name="missWork12">I have to take my mother to the doctor.</string>
+    <string name="missWork13">I have to take my minister to the doctor.</string>
+    <string name="missWork14">I have to take my doctor to my minister.</string>
+    <string name="missWork15">I’m having my eyes checked this noon, and they put drops in them so I won’t be able to work afterwards.</string>
+    <string name="missWork16">I’m having my ears checked this noon, and they put drops in them so I won’t be able to work afterwards.</string>
+    <string name="missWork17">I need to break into my kid’s piggy bank while he’s not home.</string>
+    <string name="missWork18">I’ve got an urgent session with my therapist.</string>
+    <string name="missWork19">I’ve got a really urgent session with my therapist.</string>
+    <string name="missWork2">"You carpool to work, and your carpool group totally forgot you this morning. Now, you'll have to try to hitch a ride with someone else – surely your boss won't encourage hitch hiking!"</string>
+    <string name="missWork20">I’ve … I … I’m not … I don’t … I CAN’T COPE WITH THIS!!</string>
+    <string name="missWork22">A friend of mine is dying and I have to go to the hospital.</string>
+    <string name="missWork3">My dog has a rash all over, and the vet closes early today.</string>
+    <string name="missWork4">My cat has a rash all over, and the vet closes early today.</string>
+    <string name="missWork5">My kid has a rash all over, and the vet closes early today.</string>
+    <string name="missWork6">I’m arranging financing for a house.</string>
+    <string name="missWork7">The baby we arranged for nine months ago is arriving, and I think this is the time it’s being delivered.</string>
+    <string name="missWork8">I’m being sent to the moon by NASA.</string>
+    <string name="missWork9">I have to go to the airport to pick up my mother.</string>
+    <string name="misswork21">I need to give a testimony</string>
+    <string name="murder1">Traffic.</string>
+    <string name="murder2">"I DEFINITELY didn't overdose on pcp."</string>
+    <string name="murder3">I was stoned.</string>
+    <string name="notGoing1">My child is sick.</string>
+    <string name="notGoing2">"Because I can't even."</string>
+    <string name="notGoing3">I have cancer.</string>
+    <string name="notGoing4">"Can't drive."</string>
+    <string name="offPhone1">Someone is at the door.</string>
+    <string name="offPhone2">The dog needs to go outside.</string>
+    <string name="offPhone3">"There's someone on the other line, I'll let ya go."</string>
+    <string name="offPhone4">"There's static on the line, I can't hear you."</string>
+    <string name="offPhone5">*Crinkling bag of chips* Hello? Are you there?</string>
+    <string name="offPhone6">"Let me open this water, I'll call you right back."</string>
+    <string name="offPhone7">"Let me open this refrigerator, I'll call you right back."</string>
+    <string name="purchase1">It was on sale..</string>
+    <string name="purchase2">It was 2 for the price of 1!</string>
+    <string name="purchase3">It was the cutest god damn puppy on the god damn planet</string>
+    <string name="shower1">A stripper followed me home.</string>
+    <string name="shower2">"I hit my snooze button 35 times, I just couldn't wake up."</string>
+    <string name="shower3">Forgot to pay the water bill.</string>
+    <string name="speeding1">My house caught on fire.</string>
+    <string name="speeding2">Late for work.</string>
+    <string name="speeding3">Going to be late for a Job interview</string>
+    <string name="text1">I Was so Excited You Texted Me That I Fainted</string>
+    <string name="text2">"I was driving and I don't want to die yet."</string>
+    <string name="text3">All My Fingers Just Happened to Break Simultaneously</string>
+    <string name="wedding1">"It's your ex's wedding."</string>
+    <string name="wedding2">"You haven't spoken to the bride or groom since middle school."</string>
+    <string name="wedding3">"You're out of vacation days."</string>
+    <string name="workingOut1">I wanted to work out, but then I wanted to not work out more.</string>
+    <string name="workingOut2">I was giving my brain a workout by thinking of excuses not to.</string>
+    <string name="workingOut3">"I was going to work out, but then I realized.. This nap isn't going to take itself."</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_submit_your_own">SubmitYourOwnActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_excuses">ExcusesActivity</string>
 </resources>

@@ -15,6 +15,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CategoryActivity"
+            android:label="@string/title_activity_category"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SubmitYourOwnActivity"
+            android:label="@string/title_activity_submit_your_own"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ResultActivity"
+            android:label="@string/title_activity_result"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ExcusesActivity"
+            android:label="@string/title_activity_excuses"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
